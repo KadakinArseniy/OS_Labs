@@ -1,0 +1,8 @@
+
+# Lab3 бинарные файлы
+lab3/src/*.o
+lab3/src/sequential_min_max
+lab3/src/parallel_min_max
+lab3/src/runner
+lab3/parallel_min_max
+result_*.txt
